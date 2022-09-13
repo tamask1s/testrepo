@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T09:02:48.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="mjB-TyMAW6o_7jCd-Wmi" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T10:19:11.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="kbwe1DXlRD2mtHxO5pLT" version="20.2.8" type="github">
   <diagram id="gXWosesJRznRrTSC_ofr" name="Page-1">
-    <mxGraphModel dx="3160" dy="1660" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4740" dy="2490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -844,6 +844,9 @@
         </mxCell>
         <mxCell id="8VvYUl_21GypthkHjriK-242" value="Could be detailed" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000066;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="3294" y="318" width="133" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="8VvYUl_21GypthkHjriK-244" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;AAT IMS_LT feature development workflow&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Note: UML2 state chart mostly (Choices are used as states, possibly having multiple inputs + synchronization objects are handled specially)&lt;/font&gt;&lt;/font&gt;" style="rounded=0;html=1;align=left;horizontal=1;verticalAlign=top;whiteSpace=wrap;fontSize=18;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="62" y="43" width="835" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
