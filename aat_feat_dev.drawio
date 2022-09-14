@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T10:40:16.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="0xxhYWUsWm5JsY2o55-V" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T07:12:52.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="USSEqCx52dvDgjJeqaNW" version="20.2.8" type="github">
   <diagram id="gXWosesJRznRrTSC_ofr" name="Page-1">
-    <mxGraphModel dx="4063" dy="2134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2844" dy="1608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -467,7 +467,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eBOtaoG4AacIUp0BR8DD-117" value="Integration testing&lt;br&gt;(Currently manual, requires deep IMS knowledge)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+        <mxCell id="eBOtaoG4AacIUp0BR8DD-117" value="Integration testing&lt;br&gt;(Currently manual, requires deep IMS knowledge)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#000066;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="3065" y="553" width="210" height="141.5" as="geometry" />
         </mxCell>
         <mxCell id="eBOtaoG4AacIUp0BR8DD-118" value="Problems with Adapter descriptors" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.358;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eBOtaoG4AacIUp0BR8DD-117" target="eBOtaoG4AacIUp0BR8DD-55" edge="1">
@@ -821,10 +821,10 @@
         <mxCell id="8VvYUl_21GypthkHjriK-229" value="Modifications of the image (deletions, uninstalls, settings)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1941" y="694" width="132" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="8VvYUl_21GypthkHjriK-236" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8VvYUl_21GypthkHjriK-18">
+        <mxCell id="8VvYUl_21GypthkHjriK-236" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2328" y="869" as="sourcePoint" />
-            <mxPoint x="2339" y="868" as="targetPoint" />
+            <mxPoint x="2312.5" y="869" as="sourcePoint" />
+            <mxPoint x="2339" y="869" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8VvYUl_21GypthkHjriK-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="8VvYUl_21GypthkHjriK-237" target="8VvYUl_21GypthkHjriK-4">
