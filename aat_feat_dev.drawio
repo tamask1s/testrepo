@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T13:57:23.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QWG4aHc8-VkJEwCQihWX" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T13:58:39.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="kXtBUg_3oHCXUxXxUy3L" version="20.2.8" type="github">
   <diagram id="gXWosesJRznRrTSC_ofr" name="Page-1">
-    <mxGraphModel dx="2336" dy="1259" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4671" dy="2517" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -872,8 +872,8 @@
         <mxCell id="8VvYUl_21GypthkHjriK-242" value="Could be detailed" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000066;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="3317" y="318" width="133" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="8VvYUl_21GypthkHjriK-244" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;AAT IMS_LT feature development workflow&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Note: UML2 state chart mostly (Choices are used as states, possibly having multiple inputs + synchronization objects are handled specially)&lt;/font&gt;&lt;/font&gt;" style="rounded=0;html=1;align=left;horizontal=1;verticalAlign=top;whiteSpace=wrap;fontSize=18;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="47" y="1182" width="835" height="88" as="geometry" />
+        <mxCell id="8VvYUl_21GypthkHjriK-244" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Note: UML2 state chart mostly (Choices are used as states, possibly having multiple inputs + synchronization objects are handled specially)&lt;/font&gt;&lt;/font&gt;" style="rounded=0;html=1;align=left;horizontal=1;verticalAlign=top;whiteSpace=wrap;fontSize=18;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1051" width="562" height="88" as="geometry" />
         </mxCell>
         <mxCell id="8VvYUl_21GypthkHjriK-246" value="Environment, deep &lt;br&gt;IMS knowledge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="3196" y="765.24" width="136" height="38.38" as="geometry" />
@@ -1139,6 +1139,9 @@
           <mxGeometry x="991" y="795" as="geometry">
             <mxPoint x="-42" y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8VvYUl_21GypthkHjriK-312" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;AAT IMS_LT feature development workflow&lt;/font&gt;&lt;br&gt;" style="rounded=0;html=1;align=left;horizontal=1;verticalAlign=top;whiteSpace=wrap;fontSize=18;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40.5" y="43" width="475.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
